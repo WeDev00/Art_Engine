@@ -1,0 +1,43 @@
+MAX_IMAGE_AMOUNT = -2
+NUMBER_OF_LEVEL = 5
+IMAGE_WIDTH = 3419
+IMAGE_HEIGHT = 5002
+
+PathLev0 = C:/Users/marco/Desktop/Eclipse Workspace/Art_Engine_ultimate_edition/assets/base/0
+Background
+White
+
+PathLev1 = C:/Users/marco/Desktop/Eclipse Workspace/Art_Engine_ultimate_edition/assets/base/1
+Q
+Red
+Grey
+Black
+Blue
+Purple
+
+PathLev2 = C:/Users/marco/Desktop/Eclipse Workspace/Art_Engine_ultimate_edition/assets/base/2
+Skin
+Beige
+Grey
+Black
+Red
+Purple
+
+PathLev3 = C:/Users/marco/Desktop/Eclipse Workspace/Art_Engine_ultimate_edition/assets/base/3
+Jacket
+Blue
+Grey
+Black
+Red
+Purple
+
+PathLev4 = C:/Users/marco/Desktop/Eclipse Workspace/Art_Engine_ultimate_edition/assets/base/4
+Decorations
+Beige
+Grey
+Black
+Red
+Purple
+
+Result_path = C:/Users/marco/Desktop/Eclipse Workspace/Art_Engine_ultimate_edition/assets/result/images
+Metadatas_path = C:/Users/marco/Desktop/Eclipse Workspace/Art_Engine_ultimate_edition/assets/result/metadatas
