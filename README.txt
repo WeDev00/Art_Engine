@@ -60,11 +60,11 @@ NUMBER_OF_LEVEL = 5
 IMAGE_WIDTH = 3419
 IMAGE_HEIGHT = 5002
 
-PathLev0 = C:/Users/marco/Desktop/assets/base/0
+PathLev0 = C:/Users/Desktop/assets/base/0
 Rarities_lev0 Background = 
 White 100
 
-PathLev1 = C:/Users/marco/Desktop/assets/base/1
+PathLev1 = C:/Users/Desktop/assets/base/1
 Rarities_lev1 Q =
 Red 15
 Grey 15
@@ -72,7 +72,7 @@ Black 30
 Blue 20
 Purple 20
 
-PathLev2 = C:/Users/marco/Desktop/assets/base/2
+PathLev2 = C:/Users/Desktop/assets/base/2
 Rarities_lev2 Skin =
 Beige 15
 Grey 15
@@ -80,7 +80,7 @@ Black 30
 Red 20
 Purple 20
 
-PathLev3 = C:/Users/marco/Desktop/assets/base/3
+PathLev3 = C:/Users/Desktop/assets/base/3
 Rarities_lev3 Jacket =
 Blue 15
 Grey 15
@@ -88,7 +88,7 @@ Black 30
 Red 20
 Purple 20
 
-PathLev4 = C:/Users/marco/Desktop/assets/base/4
+PathLev4 = C:/Users/Desktop/assets/base/4
 Rarities_lev4 Decorations =
 Beige 15
 Grey 15
@@ -96,5 +96,5 @@ Black 30
 Red 20
 Purple 20
 
-Result_path = C:/Users/marco/Desktop/assets/result/images
-Metadatas_path= C:/Users/marco/Desktop/assets/result/metadatas
+Result_path = C:/Users/Desktop/assets/result/images
+Metadatas_path= C:/Users/Desktop/assets/result/metadatas
