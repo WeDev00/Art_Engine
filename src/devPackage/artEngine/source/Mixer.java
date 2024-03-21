@@ -1,4 +1,4 @@
-package marcoPackage.artEngine.source;
+package devPackage.artEngine.source;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
@@ -32,7 +32,7 @@ public class Mixer {
 		else {
 		run_filtrato(0);
 		if(this.count<this.setup.MAX_IMAGE_AMOUNT)
-			System.out.println("Non è stato possibile ottenere il numero di immagini richieste rispettando i vincoli dati");
+			System.out.println("Non ï¿½ stato possibile ottenere il numero di immagini richieste rispettando i vincoli dati");
 		}
 		
 		return;
