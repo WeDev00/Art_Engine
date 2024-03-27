@@ -1,3 +1,4 @@
+#Standalone Art Engine- you provide basic traits, Art_Engine gives you all the possible piece of art
 
 !!!!!!!!!!!!DISCLAIMER:!!!!!!!!!!!!
 Failure to comply with the rules described below compromises the use and result of the software itself
